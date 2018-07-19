@@ -1,0 +1,11 @@
+C:\serverProjects\projectC#\AulaLojaWebApp\AulaLojaWebApp\bin\Debug\netcoreapp2.0\AulaLojaWebApp.deps.json
+C:\serverProjects\projectC#\AulaLojaWebApp\AulaLojaWebApp\bin\Debug\netcoreapp2.0\AulaLojaWebApp.runtimeconfig.json
+C:\serverProjects\projectC#\AulaLojaWebApp\AulaLojaWebApp\bin\Debug\netcoreapp2.0\AulaLojaWebApp.runtimeconfig.dev.json
+C:\serverProjects\projectC#\AulaLojaWebApp\AulaLojaWebApp\bin\Debug\netcoreapp2.0\AulaLojaWebApp.dll
+C:\serverProjects\projectC#\AulaLojaWebApp\AulaLojaWebApp\bin\Debug\netcoreapp2.0\AulaLojaWebApp.pdb
+C:\serverProjects\projectC#\AulaLojaWebApp\AulaLojaWebApp\obj\Debug\netcoreapp2.0\AulaLojaWebApp.csprojAssemblyReference.cache
+C:\serverProjects\projectC#\AulaLojaWebApp\AulaLojaWebApp\obj\Debug\netcoreapp2.0\AulaLojaWebApp.csproj.CoreCompileInputs.cache
+C:\serverProjects\projectC#\AulaLojaWebApp\AulaLojaWebApp\obj\Debug\netcoreapp2.0\AulaLojaWebApp.AssemblyInfoInputs.cache
+C:\serverProjects\projectC#\AulaLojaWebApp\AulaLojaWebApp\obj\Debug\netcoreapp2.0\AulaLojaWebApp.AssemblyInfo.cs
+C:\serverProjects\projectC#\AulaLojaWebApp\AulaLojaWebApp\obj\Debug\netcoreapp2.0\AulaLojaWebApp.dll
+C:\serverProjects\projectC#\AulaLojaWebApp\AulaLojaWebApp\obj\Debug\netcoreapp2.0\AulaLojaWebApp.pdb

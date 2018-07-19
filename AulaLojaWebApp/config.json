@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "MyWebAppDB": "Server=localhost;User ID=euroitlogin;password=Admin123#;database=AulaLoja;Trusted_Connection=True;ConnectRetryCount=0"
+  }
+}
